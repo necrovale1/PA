@@ -21,3 +21,5 @@ Este repositório contém vários programas básicos para fins educativos, inclu
   🎯 Adivinhar Números: O computador tenta adivinhar um número com base em tentativas e dicas fornecidas pelo usuário.<br>
   🌍 Conversão de Coordenadas: Converte entre coordenadas cartesianas e polares.<br>
   🧑‍💻 Vetores: Realiza operações como soma de vetores, busca de elementos e ordenação.<br>
+
+  ✍️ Feito por Carolina Rodrigues de Mattos, conhecida como Necrovale1
