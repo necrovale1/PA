@@ -23,3 +23,7 @@ Este repositório contém vários programas básicos para fins educativos, inclu
   🧑‍💻 Vetores: Realiza operações como soma de vetores, busca de elementos e ordenação.<br>
 
   ✍️ Feito por Carolina Rodrigues de Mattos, conhecida como Necrovale1
+
+  ## 👩‍🏫 **Equipe de Professores**
+
+- **Prof. Anderson**
