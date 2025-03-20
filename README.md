@@ -1,7 +1,9 @@
 # PA
+
 🧮 Calculadora em C# e Outros Programas - Projeto de Conversão de Portugol para C#
 
 Este projeto consiste na implementação de uma calculadora simples em C#, inicialmente projetada em Portugol, junto a outros programas como par/ímpar, adivinhar números, coordenadas polar e cartesiana e manipulação de vetores. O objetivo é demonstrar a conversão de códigos de pseudocódigo para C#, com a implementação de vários programas educativos.
+
 📋 Descrição
 
 Este repositório contém vários programas básicos para fins educativos, incluindo:
